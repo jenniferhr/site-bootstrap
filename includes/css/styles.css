@@ -54,6 +54,10 @@ ul.unstyled {
 	padding: 0;
 }
 
+#moreCourses h3 {
+	font-weight: bold;
+}
+
 /* --------------------------------------
    Navbar
    -------------------------------------- */
